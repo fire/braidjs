@@ -9,6 +9,15 @@ By versioning our code together, it becomes easier to interoperate.
 
 This is not my code.  This is *our* code.
 
+## License
+
+> toomim commented 28 minutes ago
+> 
+> Go for it. You have permission to remix any of them into an MIT licensed project.
+
+https://github.com/braid-org/braidjs/issues/19
+
+
 ### Projects
 
 Add yours today!
